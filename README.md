@@ -1,6 +1,6 @@
 # ⚡ Forged Core
 
-![Forged Core Logo](images/logo.png)  
+![Forged Core Logo](images/FCLogoT.png)  
 *A dystopian sci-fi FPS built on chaos, escalation, and survival.*
 
 ---
